@@ -67,7 +67,7 @@ The downturn intensified in 2021, when revenue dropped by an additional 89.04%, 
 Dataset Information <br>
 The datasets used in this project were obtained from [Maven Analytics](https://mavenanalytics.io/data-playground/global-electronics-retailer). <br>
 
-> *Note: The dataset is for educational purposes only.*
+> *Note: The datasets are for educational purposes only.*
 
 #### 📁 Maven Fuzzy Factory/
 
