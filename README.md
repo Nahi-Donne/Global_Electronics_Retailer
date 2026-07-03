@@ -48,8 +48,11 @@ The downturn intensified in 2021, when revenue dropped by an additional 89.04%, 
 * While overall business performance remained strong through 2019, some categories showed early signs of weakening demand.
 * The COVID-19 pandemic triggered a sharp decline in 2020, followed by an even more severe contraction in 2021, affecting every product category.
 
-![Overview Analysis](./Overview.png)
-
+![Overview Analysis](./KPIs.png)
+![Profit Analysis](./Profit_analysis.png)
+![Profit Revenue](./Profit_Revenue.png)
+![Seasonality](./Seasonality.png)
+![Churn](./Churn.png)
 ---
 ## 🛠️ Tools & Technologies
 - **Superset Apache**
