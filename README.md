@@ -77,10 +77,20 @@ The datasets used in this project were obtained from [Maven Analytics](https://m
 ├── dashboard/                               <br>
 │    └── KPIs.png                            <br>
 │    └── Profit_analysis.png                 <br>
-│    └── Profit_Revenue                      <br>
-│    └── Seasonality                         <br>
+│    └── Profit_Revenue.png                  <br>
+│    └── Seasonality.png                     <br>
 │    └── Churn.png                           <br>
-└── All files on Maven Website                    <br>
+├── sql/                                     <br>
+│    └── 01_table_column_renaming.sql        <br>
+│    └── 02_stages_tables.sql                <br>
+│    └── 03_table_creation.sql               <br>
+│    └── 04_table_keys.sql                   <br>
+│    └── 05_schema.sql                       <br>
+│    └── 06_revenue_views.sql                <br>
+│    └── 07_volume_views.sql                 <br>
+│    └── 08_profit_views.sql                 <br>
+│    └── 09_customer_views.sql                  
+└── All CSV files on Maven Website           <br>
   
 
 ## 👤 Author
