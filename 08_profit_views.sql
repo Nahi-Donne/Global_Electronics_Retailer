@@ -1,4 +1,19 @@
+/*
+==================================================
+Profit Analysis Views
+Project: Sales Performance Dashboard
+
+Description:
+Contains views used to analyze:
+- Profit trends
+- YoY Profit growth
+- Profit by Category
+- Profit by Country
+==================================================
+*/
+
 -- Yearly Total Profit
+
 CREATE OR REPLACE VIEW analytics.yearly_profit AS
   WITH yearly_profit_product AS(
     SELECT
