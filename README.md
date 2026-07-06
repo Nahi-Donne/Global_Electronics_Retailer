@@ -56,6 +56,8 @@ The downturn intensified in 2021, when revenue dropped by an additional 89.04%, 
 ---
 ## 🛠️ Tools & Technologies
 - **Superset Apache**
+- **Neon Console**
+- **DBeaver**
 - **PostgreSQL**
 - **Power Query**
 - **Excel / CSV Data Source**
@@ -69,11 +71,16 @@ The datasets used in this project were obtained from [Maven Analytics](https://m
 
 > *Note: The datasets are for educational purposes only.*
 
-#### 📁 Maven Fuzzy Factory/
+#### 📁 Global Electronics Retailer/
 
-├── README.md                                     – Summary overview <br>
-├── Toy_Store_Project.pbit                        – Power BI Report <br>
-└── All files on Maven Website                    – All files Used <br>
+├── README.md                                <br>
+├── dashboard/                               <br>
+│    └── KPIs.png                            <br>
+│    └── Profit_analysis.png                 <br>
+│    └── Profit_Revenue                      <br>
+│    └── Seasonality                         <br>
+│    └── Churn.png                           <br>
+└── All files on Maven Website                    <br>
   
 
 ## 👤 Author
