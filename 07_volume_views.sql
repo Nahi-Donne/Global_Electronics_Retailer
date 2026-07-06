@@ -1,3 +1,16 @@
+/*
+==================================================
+Volume Analysis Views
+Project: Sales Performance Dashboard
+
+Description:
+Contains views used to analyze:
+- Volume trends
+- YoY volume growth
+- Seasonal volume patterns
+==================================================
+*/
+
 -- Sales volume for each product category evolving year over year analysis.
 
 CREATE OR REPLACE VIEW analytics.yearly_volume AS
