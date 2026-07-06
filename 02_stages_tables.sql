@@ -1,5 +1,3 @@
--- Clean All Tables
-
 -- 1. Customers Table
 CREATE MATERIALIZED VIEW customers_stage AS 
 SELECT
