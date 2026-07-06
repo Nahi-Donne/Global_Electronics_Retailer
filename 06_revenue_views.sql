@@ -1,3 +1,17 @@
+/*
+==================================================
+Revenue Analysis Views
+Project: Sales Performance Dashboard
+
+Description:
+Contains views used to analyze:
+- Revenue trends
+- YoY revenue growth
+- Revenue by country
+- Seasonal revenue patterns
+==================================================
+*/
+
 -- Revenue evolving year over year analysis.
 
 CREATE OR REPLACE VIEW analytics.yearly_revenues AS
