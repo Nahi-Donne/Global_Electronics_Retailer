@@ -1,3 +1,15 @@
+/*
+==================================================
+Customer Analysis Views
+Project: Sales Performance Dashboard
+
+Description:
+Contains views used to analyze:
+- Customer Churn
+- Profit by Customer Category
+==================================================
+*/
+
 -- Churn evolving year over year analysis.
 
 CREATE OR REPLACE VIEW analytics.customer_churn AS
